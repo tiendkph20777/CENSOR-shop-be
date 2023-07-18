@@ -1,6 +1,6 @@
 import dotenv from "dotenv";
 import Product from "../model/products";
-import { productSchema } from "../schames/products";
+import { productSchema } from "../schemas/products";
 import Category from "../model/category";
 dotenv.config();
 
